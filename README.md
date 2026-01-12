@@ -6,7 +6,7 @@
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td style="vertical-align: middle; padding-right: 20px; border: none;">
+    <td style="vertical-align: middle; padding-right: 20px; border: none;" width="1000px">
       Hello! My name is Lucas Tales and I'm an aspiring full-stack developer.<br>
       I enjoy transforming ideas into functional, modern, and attractive applications,<br>
       always seeking to learn new technologies and improve my skills.
