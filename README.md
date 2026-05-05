@@ -36,3 +36,10 @@
 <h2 align="left">Technologies</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=arduino,py,django,postgres,figma,html,css,react,tailwind)](https://skillicons.dev)
+
+###
+
+<h2 align="left">Contact me</h2>
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lucas-tales)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:lucastales100@gmail.com)
