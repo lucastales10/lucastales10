@@ -19,20 +19,6 @@
 
 ###
 
-<h2>Statistics</h2>
-
-<div style="display: flex; align-items: center; gap: 20px;">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Lucas-Tales1&show_icons=true&theme=transparent" 
-    alt="GitHub Stats" 
-    height="180"
-  />
-
-  <img src="octocat.png" width="200" alt="octocat"/>
-</div>
-
-###
-
 <h2 align="left">Technologies</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=arduino,py,django,postgres,figma,html,css,react,tailwind)](https://skillicons.dev)
