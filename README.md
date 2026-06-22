@@ -21,7 +21,7 @@
 
 <h2 align="left">Technologies</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,py,django,postgres,figma,html,css,react,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,postgres,figma,html,css,react,tailwind)](https://skillicons.dev)
 
 ###
 
